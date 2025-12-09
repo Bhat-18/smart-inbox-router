@@ -1,0 +1,13 @@
+# Secrets - THIS IS CRITICAL
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Mac OS junk (since you are on a Mac)
+.DS_Store
